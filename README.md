@@ -1,4 +1,4 @@
-# Smart Contracts
+# Smart Contracts Event Listener
 
 This will show you how to build the smart contracts event listener in Express.js and Solidity.
 
